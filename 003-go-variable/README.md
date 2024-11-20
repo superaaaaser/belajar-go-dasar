@@ -9,5 +9,6 @@
 
 Ada sedikit perbedaan antara var dan :=
 | var | := |
+| | |
 
 ## Deklarasi variabel tanpa nilai awal

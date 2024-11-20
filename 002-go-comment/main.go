@@ -17,6 +17,7 @@ func main(){
 	// ini adalah
 	// komentar
 	// multiple baris
+	// menggunakan double slash
 	fmt.Println("ini dalah komentar multiple baris dengan menggunakan double slash")
 
 }

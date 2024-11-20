@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 var width int = 30
-height := 30
 
 func main(){
 	// membuat variabel dengan keyword var dan mendeskripsikan tipe datanya
@@ -20,5 +19,4 @@ func main(){
 	fmt.Println(myAge)
 
 	fmt.Println(width)
-	fmt.Println(height)
 }

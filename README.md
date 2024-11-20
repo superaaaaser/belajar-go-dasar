@@ -1,8 +1,3 @@
-## Basic Sintaks di Golang
+# Golang
 
-- Membuat program Hello World!
-
-- Di Golang setiap program dalah bagian dari sebuah package. Didefinisikan menggunakan keyword package
-- import "fmt" artinya kita mengimport file yang disertakan di package fmt.
-- func main() {} adalah sebuah fungsi, setiap kode yang ada di kurung kurawal akan dieksekusi.
--
+Golang (sering di sebut Go), adalah bahasa pemrograman yang dikembangkan oleh Google dan bersifat open-source. Go mulai dikembangkan pada tahun 2007 kemudian di perkenalkan ke publik pada tahun 2009.

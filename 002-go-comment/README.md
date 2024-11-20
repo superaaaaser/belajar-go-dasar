@@ -17,7 +17,7 @@ func main(){
 
 ## Komentar banyak baris
 
-- `package main` merupakan program yang ada di package main
-- `import "fmt"` yaitu menyertakan file yang ada di package fmt
-- `func main() {}` yaitu sebuah fungsi, kode yang akan di jalankan berada dalam kurung kurawal
-- `fmt.Println()` adalah sebuah fungsi yang berada di package fmt, yang berfungsi untuk mencetak teks
+- `package main` merupakan program yang ada di package main.
+- `import "fmt"` yaitu menyertakan file yang ada di package fmt.
+- `func main() {}` yaitu sebuah fungsi, kode yang akan di jalankan berada dalam kurung kurawal.
+- `fmt.Println()` adalah sebuah fungsi yang berada di package fmt, yang berfungsi untuk mencetak teks.
