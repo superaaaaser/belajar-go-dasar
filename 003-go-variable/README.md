@@ -9,6 +9,9 @@
 
 Ada sedikit perbedaan antara var dan :=
 | var | := |
-| | |
+|:--- |---:|
+| Data baris 1 | Data baris 1 |
+| Data baris 2 | Data baris 2 |
+| Data baris 3 | Data baris 3 |
 
 ## Deklarasi variabel tanpa nilai awal
