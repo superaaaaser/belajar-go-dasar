@@ -1,4 +1,4 @@
-## Variabel di Golang
+# Variabel di Golang
 
 - variabel dalah tempat untuk menyimpan value data
 - untuk membuat variable di golang ada dua cara yaitu dengan keyword var atau dengan tanda :=
@@ -9,7 +9,7 @@
 
 Ada sedikit perbedaan antara var dan :=
 | var | := |
-|:--- |---:|
+|:--: |:--:|
 | Data baris 1 | Data baris 1 |
 | Data baris 2 | Data baris 2 |
 | Data baris 3 | Data baris 3 |
