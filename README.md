@@ -1,4 +1,4 @@
-(./images/go.png)
+![tutorial go](./images/go.png)
 
 # Golang
 
