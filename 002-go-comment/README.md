@@ -1,19 +1,27 @@
 # Komentar di Go
 
-Pada kali ini kita akan membuat program pertama di bahasa pemrograman go.
+`Komentar` adalah teks yang ditulis di dalam kode tetapi diabaikan oleh compiler atau interpreter saat program dijalankan. Komentar digunakan untuk memberikan penjelasan tentang kode, catatan, atau dokuemntasi yang membantu programmer (termasuk diri sendiri di masa depan) untuk memahami logika atau tujuan dari bagian tertentu dari kode.
 
-## Komentar satu baris
+## Pentingnya komentar
 
-Program pertama yang akan dibuat adalah program Hello World, sebuah program yang sangat terkenal di kalangan programmer. Program tersebut bertutujan untuk menampilkan teks "Hello world".
+- Membantu kolaborasi tim dalam memahami kode
+- Meningkatkan pemeliharaan kode jangka panjang
+- Mengurangi kebingungan saat membaca kode kompleks
 
-```go
-package main
-import "fmt"
+## Jenis Komentar
 
-func main(){
-    fmt.Println("Hello World")
-}
-```
+### Komentar satu baris
+
+    Program pertama yang akan dibuat adalah program Hello World, sebuah program yang sangat terkenal di kalangan programmer. Program tersebut bertutujan untuk menampilkan teks "Hello world".
+
+    ```go
+    package main
+    import "fmt"
+
+    func main(){
+        fmt.Println("Hello World")
+    }
+    ```
 
 ## Komentar banyak baris
 
