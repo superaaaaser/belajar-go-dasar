@@ -1,3 +1,5 @@
+[Go Comment](../images/go-comment.png)
+
 # Komentar di Go
 
 `Komentar` adalah teks yang ditulis di dalam kode tetapi diabaikan oleh compiler atau interpreter saat program dijalankan. Komentar digunakan untuk memberikan penjelasan tentang kode, catatan, atau dokuemntasi yang membantu programmer (termasuk diri sendiri di masa depan) untuk memahami logika atau tujuan dari bagian tertentu dari kode.
