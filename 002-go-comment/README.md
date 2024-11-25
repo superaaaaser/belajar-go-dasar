@@ -1,4 +1,4 @@
-[Go Comment](../images/go-comment.png)
+![Go Comment](../images/go-comment.png)
 
 # Komentar di Go
 
