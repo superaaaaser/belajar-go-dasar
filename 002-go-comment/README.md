@@ -16,14 +16,14 @@
 
 Program pertama yang akan dibuat adalah program Hello World, sebuah program yang sangat terkenal di kalangan programmer. Program tersebut bertutujan untuk menampilkan teks "Hello world".
 
-    ```go
-    package main
-    import "fmt"
+```go
+package main
+import "fmt"
 
-    func main(){
-        fmt.Println("Hello World")
-    }
-    ```
+func main(){
+    fmt.Println("Hello World")
+}
+```
 
 ### Komentar banyak baris
 
