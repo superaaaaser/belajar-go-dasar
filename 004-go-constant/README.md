@@ -5,5 +5,9 @@
 - Sintaks untuk membuat constant
 
 ```go
-const NamaConstant tipe = value
+const NAMACONSTANT tipe = value
 ```
+
+- Value constant harus di tetapkan pada saat mendeklarasikannya
+- Nama constant biasanya ditulis dengan huruf besar, agar mumeudahkan pemneda antara `constant` dan `variabel`
+- Constant bisa di deklarasikan didalam maupun di luar fungsi
