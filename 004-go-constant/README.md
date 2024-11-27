@@ -1,3 +1,5 @@
+![tutorial go](./images/go-constant.png)
+
 # Golang Constant
 
 - Constant adalah variabel yang memiliki nilai tetap yang tidak dapat diubah
