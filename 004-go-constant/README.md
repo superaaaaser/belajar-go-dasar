@@ -1,4 +1,4 @@
-![tutorial go](./images/go-constant.png)
+![tutorial go](../images/go-constant.png)
 
 # Golang Constant
 

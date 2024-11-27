@@ -1,3 +1,5 @@
+![tutorial go](../images/go-variabel.png)
+
 # Variabel di Golang
 
 - variabel dalah tempat untuk menyimpan value data
