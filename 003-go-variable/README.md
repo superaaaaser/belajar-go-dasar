@@ -1,4 +1,4 @@
-![tutorial go](../images/go-variabel.png)
+![Go Variabel](../images/go-variabel.png)
 
 # Variabel di Golang
 
@@ -17,3 +17,18 @@ Ada sedikit perbedaan antara var dan :=
 | Data baris 3 | Data baris 3 |
 
 ## Deklarasi variabel tanpa nilai awal
+
+## Deklarasi Multiple Variabel
+
+```go
+package main
+import "fmt"
+
+func main(){
+    var d, e, f int = 2, 3, 4
+
+    fmt.Println(d)
+    fmt.Println(e)
+    fmt.Println(f)
+}
+```
