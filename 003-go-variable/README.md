@@ -18,6 +18,21 @@ Ada sedikit perbedaan antara var dan :=
 
 ## Deklarasi variabel tanpa nilai awal
 
+```go
+package main
+import "fmt"
+
+func main(){
+    var a string
+    var i int
+    var u bool
+
+    fmt.Println(a)
+    fmt.Println(i)
+    fmt.Println(u)
+}
+```
+
 ## Deklarasi Multiple Variabel
 
 ```go
