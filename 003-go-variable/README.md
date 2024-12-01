@@ -12,9 +12,8 @@
 Ada sedikit perbedaan antara var dan :=
 | var | := |
 |:--: |:--:|
-| Data baris 1 | Data baris 1 |
-| Data baris 2 | Data baris 2 |
-| Data baris 3 | Data baris 3 |
+| Bisa digunakan di dalam dan di luar funsi | Hanya dapat digunakan di dalam fungsi |
+| Deklarasi variabel dan penetapan value dapat dilakuakan secara terpisah | Deklarasi variabel dan penetapan value tidak dapat dilakuakan secara terpisah (Harus dilakukan dibaris yang sama) |
 
 ## Deklarasi variabel tanpa nilai awal
 
