@@ -1,4 +1,4 @@
-![tutorial go](../images/go-constant.png)
+![Go Constant](../images/go-constant.png)
 
 # Golang Constant
 
@@ -22,6 +22,24 @@ import "fmt"
 
 const LENGTH = 10
 const WIDTH = 5
+
+func main(){
+    fmt.Println(LENGTH)
+    fmt.Println(WIDTH)
+}
+```
+
+## Membuat banyak constant
+
+```go
+package main
+import "fmt"
+
+const (
+    LENGTH int = 10
+    WIDTH      = 5
+    OBJECT     = "Square"
+    )
 
 func main(){
     fmt.Println(LENGTH)
