@@ -46,3 +46,22 @@ func main(){
     fmt.Println(f)
 }
 ```
+
+## Deklarasi Multiple variabel dalam blok
+
+```go
+package main
+import "fmt"
+
+func main(){
+    var (
+        userName string = "superaaaaser"
+        firstName = "Super"
+        id int = 112
+    )
+
+    fmt.Println(d)
+    fmt.Println(e)
+    fmt.Println(f)
+}
+```
