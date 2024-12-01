@@ -20,7 +20,7 @@ const NAMACONSTANT tipe = value
 package main
 import "fmt"
 
-const LENGTH = 10
+const LENGTH int = 10
 const WIDTH = 5
 
 func main(){
